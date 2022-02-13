@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @habbleO (I go by Hazel and my pronouns are she/her!)
 - 👀 I’m interested in ... Things! Mostly personal projects/games
-- 🌱 I’m currently learning ... Python (Specifically the tkinter library), JavaScript, and GameMakerStudio2
+- 🌱 I’m currently learning ... Python (Specifically the tkinter module), JavaScript, and GameMakerStudio2
 
 <!---
 habbleO/habbleO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
